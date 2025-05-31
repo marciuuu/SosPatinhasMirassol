@@ -13,15 +13,15 @@
 Este projeto foi desenvolvido como parte do **Projeto Integrador de Extensão Curricular** da FATEC. Nosso objetivo foi aplicar os conteúdos estudados em sala de aula para atender uma necessidade real de uma cliente parceira.
 
 ### 🔍 Etapas do projeto:
-- Coleta de dados com a cliente (entrevistas, formulários e observação);
+- Coleta de dados com a cliente;
 - Análise e proposta de melhorias;
-- Criação de um site personalizado para fortalecer a comunicação da instituição com o público.
+- Criação de um site personalizado para fortalecer e promover a comunicação da organização com o público.
 
 ---
 
 ## 🌱 Objetivo
 
-Desenvolver um site funcional, visualmente atrativo e acessível, com foco na simplicidade e na experiência do usuário, promovendo o trabalho da instituição parceira e fortalecendo sua presença digital.
+Desenvolver um site funcional, acessível e visualmente atrativo, com foco na simplicidade e na experiência do usuário, para divulgar o trabalho da organização parceira que atua de forma voluntária na causa dos gatos de rua, fortalecendo sua presença digital.
 
 ---
 
@@ -43,14 +43,17 @@ Esse projeto proporcionou uma rica experiência de trabalho em equipe e desenvol
 
 ## 📸 Imagens do Projeto
 
-*Adicione aqui prints do site ou um link para o site publicado, se existir.*
+![image](https://github.com/user-attachments/assets/39fe50c5-b7c5-49b8-92eb-0282914ce9e1)
+![image](https://github.com/user-attachments/assets/37117c16-8a44-4ee5-9abb-72655ad160ef)
+
+
 
 ---
 
 ## 👤 Autores
 
 Desenvolvido por **Leonardo Oliveira, Luiz e Marcio Gonçalves**  
-Estudante do 1º semestre de Informática para Negócios — FATEC.
+Estudantes do 1º semestre de Informática para Negócios — FATEC.
 
 Este projeto faz parte do meu portfólio como desenvolvedor em formação.
 
