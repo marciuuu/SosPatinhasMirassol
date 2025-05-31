@@ -1,45 +1,64 @@
-🐾 Projeto Integrador de Extensão Curricular – S.O.S Patinhas Mirassol
+# 🌐 Projeto Integrador de Extensão Curricular — FATEC
 
-Este repositório apresenta o desenvolvimento de um projeto de extensão curricular, realizado em parceria com a iniciativa S.O.S Patinhas Mirassol, uma organização voluntária dedicada ao resgate e cuidado de gatos em situação de abandono ou risco.
-🎯 Objetivo do Projeto
+**Curso:** Informática para Negócios  
+**Semestre:** 1º  
+**Instituição:** FATEC  
+**Tipo de Projeto:** Extensão Curricular  
+**Tecnologias utilizadas:** HTML, CSS, Bootstrap, JavaScript
 
-O principal objetivo foi aplicar, na prática, os conhecimentos adquiridos ao longo do curso, integrando teoria e experiência real de mercado. Para isso, utilizamos:
+---
 
-    Coleta de dados da organização (entrevistas, formulários, observações)
+## 💡 Sobre o Projeto
 
-    Análise dos desafios enfrentados pela cliente
+Este projeto foi desenvolvido como parte do **Projeto Integrador de Extensão Curricular** da FATEC. Nosso objetivo foi aplicar os conteúdos estudados em sala de aula para atender uma necessidade real de uma cliente parceira.
 
-    Proposta de melhorias digitais
+### 🔍 Etapas do projeto:
+- Coleta de dados com a cliente (entrevistas, formulários e observação);
+- Análise e proposta de melhorias;
+- Criação de um site personalizado para fortalecer a comunicação da instituição com o público.
 
-    Desenvolvimento de um site institucional responsivo para promover a causa, facilitar doações e divulgar campanhas como rifas solidárias.
+---
 
-💻 Tecnologias Utilizadas
+## 🌱 Objetivo
 
-    HTML5
+Desenvolver um site funcional, visualmente atrativo e acessível, com foco na simplicidade e na experiência do usuário, promovendo o trabalho da instituição parceira e fortalecendo sua presença digital.
 
-    CSS3 (com Media Queries para responsividade)
+---
 
-    JavaScript (copiar PIX, botão de voltar ao topo)
+## 🖥️ Funcionalidades
 
-    Bootstrap (facilitando a estrutura e design responsivo)
+- Página inicial responsiva;
+- Seções institucionais (Quem Somos, Contato, Doações etc.);
+- Cards informativos;
+- Botão de rolagem para o topo;
+- Cópia automática de código PIX com alerta de sucesso.
 
-📌 Funcionalidades do Site
+---
 
-    Página inicial com chamada à ação (Adote / Ajude / Doe)
+## 🚀 Aprendizados
 
-    Página "Quem Somos" contando a história da ONG
+Esse projeto proporcionou uma rica experiência de trabalho em equipe e desenvolvimento prático com foco em resolução de problemas reais. Também serviu como primeiro contato com projetos voltados à atuação no mercado de tecnologia.
 
-    Seção de Doações via PIX com botão de cópia
+---
 
-    Página de Rifas com divulgação de campanhas solidárias
+## 📸 Imagens do Projeto
 
-    Seção de Contato com QR Code, Instagram e número direto
+*Adicione aqui prints do site ou um link para o site publicado, se existir.*
 
-🤝 Parceria com a Cliente
+---
 
-A colaboração direta com a cliente proporcionou uma experiência real de desenvolvimento, com foco em empatia, escuta ativa e solução de problemas através da tecnologia.
-👨‍💻 Sobre o Grupo
+## 👤 Autor
 
-Este projeto foi realizado por alunos do 1º semestre do curso [nome do curso], com o objetivo de fortalecer a prática profissional desde o início da jornada acadêmica.
+Desenvolvido por **[Seu Nome]**  
+Estudante do 1º semestre de Informática para Negócios — FATEC.
 
-    Meu papel no projeto: [descreva aqui brevemente suas funções – exemplo: “responsável pela estruturação das páginas HTML e aplicação dos estilos responsivos em CSS, além da implementação de interações com JavaScript”].
+Este projeto faz parte do meu portfólio como desenvolvedor em formação.
+
+---
+
+## 📄 Licença
+
+⚠️ **Uso restrito**: Este projeto é de uso acadêmico e **não deve ser utilizado para fins comerciais**.  
+Você pode estudar, adaptar e reutilizar partes do código para fins educacionais.
+
+---
