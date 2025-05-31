@@ -55,10 +55,19 @@ Estudante do 1º semestre de Informática para Negócios — FATEC.
 Este projeto faz parte do meu portfólio como desenvolvedor em formação.
 
 ---
+## ✍️ Minha Contribuição
+
+Neste projeto, fui responsável por:
+
+- Desenvolvimento front-end utilizando HTML, CSS e Bootstrap para garantir responsividade e usabilidade;
+- Implementação de funcionalidades interativas com JavaScript, como o botão de rolagem para o topo e a cópia automática do código PIX;
+- Participação na coleta de dados junto à cliente para entender as necessidades e traduzir em requisitos técnicos;
+- Criação do layout visual e estrutura das páginas, priorizando uma experiência de navegação simples e acessível;
+- Realização de testes de usabilidade e ajustes para compatibilidade em dispositivos móveis.
+
+---
 
 ## 📄 Licença
 
 ⚠️ **Uso restrito**: Este projeto é de uso acadêmico e **não deve ser utilizado para fins comerciais**.  
 Você pode estudar, adaptar e reutilizar partes do código para fins educacionais.
-
----
