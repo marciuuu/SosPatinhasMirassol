@@ -47,9 +47,9 @@ Esse projeto proporcionou uma rica experiência de trabalho em equipe e desenvol
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-Desenvolvido por **[Seu Nome]**  
+Desenvolvido por **Leonardo Oliveira, Luiz e Marcio Gonçalves**  
 Estudante do 1º semestre de Informática para Negócios — FATEC.
 
 Este projeto faz parte do meu portfólio como desenvolvedor em formação.
