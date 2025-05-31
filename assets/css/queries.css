@@ -1,0 +1,267 @@
+@media (max-width: 768px) {
+    /* Pagina História  */
+    .main-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .titulo-home {
+        padding-top: 150px;
+        width: 90%;
+        height: auto;
+        padding-left: 45px;
+    }
+
+    .titulo-home h1 {
+        font-size: 50px;
+    }
+
+    .titulo-home p {
+        font-size: 20px;
+    }
+
+    .img-home {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .img-home img {
+        max-width: 100%;
+        padding-top: 180px;
+        padding-right: 30px;
+    }
+
+    .imagem-direita {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+
+    .container-fluid {
+        flex-wrap: nowrap !important;
+        padding-right: 2rem !important;
+    }
+
+    /* Pagina História  */
+    .content-historia {
+        flex-direction: column-reverse;
+        /* Texto em cima, imagem embaixo */
+        text-align: justify;
+    }
+
+    .texto-direita-history {
+        max-width: 100%;
+    }
+
+    .imagem-esquerda-history {
+        margin-top: 20px;
+    }
+
+    .titulo-historia {
+        font-family: poppins;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 50px;
+        padding-top: 1px;
+        text-align: center;
+    }
+
+    .texto-sobre-mim {
+        font-size: 18px;
+    }
+
+    /* Pagina Ajude */
+    .titulo-ajuda {
+        text-align: center;
+    }
+
+    .cards {
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+        padding-top: 50px;
+        padding-bottom: 100px;
+    }
+
+    .card,
+    .text-white,
+    .card-img {
+        width: 75vw;
+        height: auto;
+    }
+
+    .card-title {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .card-text {
+        font-size: 31px;
+        padding-top: 50px;
+        text-align: center;
+    }
+
+    /* Página nossas rifas */
+
+    .main-content-nossas-rifas {
+        display: flex;
+        justify-content: center;
+        /* centraliza horizontalmente */
+        align-items: center;
+        /* alinha verticalmente */
+        gap: 20px;
+        /* espaço entre o card e o texto */
+        flex-wrap: wrap-reverse;
+        /* responsivo em telas pequenas */
+        padding: 20px;
+        text-align: center;
+    }
+
+    .main-content-nossas-rifas .card-body {
+        padding: 10px;
+    }
+
+    .main-content-nossas-rifas .card-title {
+        font-size: 25px;
+        font-family: poppins;
+    }
+
+    .main-content-nossas-rifas .card-text {
+        font-size: 20px;
+        font-family: poppins;
+    }
+
+    .main-content-nossas-rifas .card-post-insta-esquerda {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .main-content-nossas-rifas .texto-direito-rifas h2 {
+        font-size: 60px;
+        padding-right: 0px;
+    }
+
+
+    .section-contatos {
+        background-color: var(--quartery-color);
+        padding-bottom: 80px;
+    }
+
+    .titulo-contatos {
+        display: flex;
+        justify-content: center;
+        color: var(--primary-color);
+        padding: 50px 10px 20px;
+        font-family: Poppins;
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .conteudo-principal {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        /* Centraliza horizontalmente */
+        gap: 30px;
+        /* Espaço entre os blocos */
+        padding: 0 20px;
+        text-align: center;
+    }
+
+    .card-insta {
+        width: 300px;
+        border-radius: 10px;
+    }
+
+    .post-Instagram {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .qr-code-direito {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 300px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .numero-contato {
+        font-family: poppins;
+        font-size: 30px;
+        color: var(--primary-color);
+        max-width: 300px;
+        padding: 0;
+        margin: 0 auto;
+    }
+
+
+    h3 {
+        color: var(--primary-color);
+        text-align: center;
+    }
+
+    .btn {
+        margin-top: 15px;
+        border-radius: 45px;
+        background-color: var(--primary-color);
+        color: var(--quartery-color);
+        font-weight: bold;
+    }
+
+    .card-insta p {
+        text-align: center;
+        font-family: poppins;
+        font-size: 30px;
+        color: var(--terciary-color);
+        font-weight: bold;
+    }
+
+    .numero-contato {
+        text-align: center;
+        font-family: poppins;
+        font-size: 24px;
+        color: var(--terciary-color);
+        padding-top: 160px;
+        font-weight: bold;
+    }
+}
+
+/* ← Fechamento correto do @media (max-width: 768px) */
+
+/* Media queries independentes */
+@media (max-width: 423px) {
+    .container-fluid {
+        flex-wrap: wrap !important;
+        padding-right: 8rem !important;
+    }
+
+    .px-5 {
+        padding-left: 2rem !important;
+    }
+}
+
+@media (max-width: 352px) {
+    .px-5 {
+        padding-left: 1rem !important;
+    }
+}
+
+@media (max-width: 440px) {
+    .card-title {
+        font-size: 20px;
+    }
+
+    .card-text {
+        font-size: 20px;
+        padding-top: 50px;
+        text-align: center;
+    }
+}
