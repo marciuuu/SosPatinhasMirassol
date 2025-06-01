@@ -1,4 +1,5 @@
 @media (max-width: 768px) {
+
     /* Pagina História  */
     .main-content {
         flex-direction: column;
@@ -75,74 +76,65 @@
 
     /* Pagina Ajude */
     .titulo-ajuda {
+        font-size: 36px;
+        padding: 30px 20px;
         text-align: center;
+        word-break: break-word;
     }
 
-    .cards {
+    .cards-container {
         flex-direction: column;
         align-items: center;
-        gap: 50px;
-        padding-top: 50px;
-        padding-bottom: 100px;
+        gap: 40px;
     }
 
-    .card,
-    .text-white,
-    .card-img {
-        width: 75vw;
-        height: auto;
+    .card-vertical {
+        width: 85vw;
+    }
+
+    .card-img-top {
+        height: 250px;
     }
 
     .card-title {
-        font-size: 45px;
-        text-align: center;
+        font-size: 22px;
     }
 
     .card-text {
-        font-size: 31px;
-        padding-top: 50px;
-        text-align: center;
+        font-size: 16px;
     }
 
     /* Página nossas rifas */
 
     .main-content-nossas-rifas {
-        display: flex;
-        justify-content: center;
-        /* centraliza horizontalmente */
-        align-items: center;
-        /* alinha verticalmente */
-        gap: 20px;
-        /* espaço entre o card e o texto */
-        flex-wrap: wrap-reverse;
-        /* responsivo em telas pequenas */
-        padding: 20px;
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .texto-direito-rifas h2 {
         text-align: center;
+        font-size: 40px;
     }
 
-    .main-content-nossas-rifas .card-body {
-        padding: 10px;
-    }
-
-    .main-content-nossas-rifas .card-title {
-        font-size: 25px;
-        font-family: poppins;
-    }
-
-    .main-content-nossas-rifas .card-text {
-        font-size: 20px;
-        font-family: poppins;
+    .main-content-nossas-rifas .texto-direito-rifas {
+        order: -1;
+        /* Faz o texto vir antes do card */
+        padding-bottom: 20px;
+        text-align: center;
+        font-size: 40px;
     }
 
     .main-content-nossas-rifas .card-post-insta-esquerda {
-        padding-top: 25px;
-        padding-bottom: 25px;
+        order: 1;
     }
 
     .main-content-nossas-rifas .texto-direito-rifas h2 {
-        font-size: 60px;
-        padding-right: 0px;
+        font-size: 40px;
+        padding: 0 20px;
     }
+
+
+    /* Section contatos */
 
 
     .section-contatos {
@@ -156,7 +148,7 @@
         color: var(--primary-color);
         padding: 50px 10px 20px;
         font-family: Poppins;
-        font-size: 50px;
+        font-size: 40px;
         font-weight: bold;
         text-align: center;
         flex-wrap: wrap;
