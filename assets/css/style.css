@@ -36,7 +36,12 @@ nav {
 }
 
 .nav-link {
-    color: #FFFFFF !important;
+    position: relative;
+    color: white !important;
+    transition: color 0.3s ease;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
 }
 
 .navbar-toggler {
@@ -54,6 +59,31 @@ nav {
 
 .offcanvas-header {
     flex-direction: column-reverse;
+}
+
+/* Reduzir a largura da barra lateral offcanvas */
+.offcanvas.offcanvas-end {
+    width: 175px;
+    /* ou o valor que preferir */
+    max-width: 80vw;
+    /* para garantir que não ultrapasse 80% da tela em dispositivos pequenos */
+}
+
+.offcanvas-body {
+    display: flex;
+    justify-content: center;
+    /* Centraliza horizontalmente */
+    align-items: center;
+    /* Centraliza verticalmente */
+    height: 100%;
+    /* Ocupa toda a altura da offcanvas */
+    padding-bottom: 100px;
+    /* Remove o padding padrão */
+}
+
+.offcanvas .btn-close {
+    filter: invert(1) !important;
+    /* Inverte as cores do ícone (torna branco) */
 }
 
 /* efeito menu  */

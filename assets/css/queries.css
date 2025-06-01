@@ -1,6 +1,5 @@
 @media (max-width: 768px) {
 
-    /* Pagina História  */
     .main-content {
         flex-direction: column;
         text-align: center;
@@ -30,8 +29,8 @@
 
     .img-home img {
         max-width: 100%;
-        padding-top: 180px;
         padding-right: 30px;
+        padding-top: 0 !important;
     }
 
     .imagem-direita {
