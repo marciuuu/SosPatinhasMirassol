@@ -170,6 +170,75 @@ nav {
     padding-top: 130px;
 }
 
+/* Pagina Ajudes */
+
+.section-ajude {
+    background-color: var(--secondary-color);
+    padding: 60px 20px 120px;
+}
+
+.titulo-ajuda {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 75px;
+    font-family: Poppins;
+    font-size: 65px;
+    font-weight: 600;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.card-vertical {
+    background-color: #1c1c1c;
+    color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 300px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.card-vertical:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 320px;
+    /* aumenta um pouco para melhor proporção */
+    object-fit: cover;
+    object-position: center;
+    /* centraliza a imagem */
+    border-bottom: 2px solid #fff2;
+    /* linha leve de separação */
+    display: block;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-family: Poppins, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.card-text {
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    text-align: center;
+}
+
 /*  Pagina história   */
 
 .main-content-history {
@@ -223,77 +292,6 @@ nav {
     margin-bottom: 16px;
     text-align: justify;
     font-family: poppins;
-}
-
-/* Pagina Ajudes */
-.section-ajude {
-    background-color: var(--secondary-color);
-    padding: 60px 20px 120px;
-}
-
-.titulo-ajuda {
-    display: flex;
-    justify-content: center;
-    color: white;
-    padding: 75px;
-    font-family: Poppins;
-    font-size: 65px;
-    font-weight: 600;
-}
-
-.text-white {
-    width: 290px;
-    height: 420px;
-}
-
-.cards-container {
-    display: flex;
-    justify-content: center;
-    gap: 60px;
-    flex-wrap: wrap;
-}
-
-.card-vertical {
-    background-color: #1c1c1c;
-    color: white;
-    border-radius: 15px;
-    overflow: hidden;
-    width: 300px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-    transition: transform 0.3s ease;
-}
-
-.card-vertical:hover {
-    transform: scale(1.05);
-}
-
-.card-img-top {
-    width: 100%;
-    height: 320px;
-    /* aumenta um pouco para melhor proporção */
-    object-fit: cover;
-    object-position: center;
-    /* centraliza a imagem */
-    border-bottom: 2px solid #fff2;
-    /* linha leve de separação */
-    display: block;
-}
-
-.card-body {
-    padding: 20px;
-}
-
-.card-title {
-    font-family: Poppins, sans-serif;
-    font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 10px;
-}
-
-.card-text {
-    font-family: Poppins, sans-serif;
-    font-size: 16px;
-    line-height: 1.4;
 }
 
 

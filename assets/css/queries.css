@@ -103,6 +103,10 @@
         font-size: 16px;
     }
 
+    .card-vertical:nth-child(3) .card-img-top {
+        object-position: top center;
+    }
+
     /* Página nossas rifas */
 
     .main-content-nossas-rifas {
