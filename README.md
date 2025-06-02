@@ -44,7 +44,7 @@ Esse projeto proporcionou uma rica experiência de trabalho em equipe e desenvol
 ## 📸 Imagens do Projeto
 
 ![image](https://github.com/user-attachments/assets/39fe50c5-b7c5-49b8-92eb-0282914ce9e1)
-![image](https://github.com/user-attachments/assets/37117c16-8a44-4ee5-9abb-72655ad160ef)
+![image](https://github.com/user-attachments/assets/5b71bf00-6ef7-4ec3-b79d-e4920f368600)
 ![image](https://github.com/user-attachments/assets/bc15aaed-5cff-4182-b27e-b928de73d751)
 
 ---
